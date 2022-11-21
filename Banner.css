@@ -6,13 +6,13 @@
     
 }
 #banner img{
-    width:  900px;
+    width: 100%;
     height: 1000px;
 }
 
 #banner .contenedor{
     position: absolute;
-    top: 50%;
+    top: 400px;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     color: #fff;
