@@ -12,7 +12,7 @@
 
 #banner .contenedor{
     position: absolute;
-    top: 40px;
+    top: -400px;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     color: #fff;
@@ -25,7 +25,7 @@
 #banner a{
     display: block;
     width: 100px;
-    color:#fff;
+    color: #000000;
     text-decoration: none;
     padding: 7px;
     margin-top: 10px;
